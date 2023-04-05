@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Linktree Clone</title>
+</head>
+<body>
+
+
+    <header>
+        <div class="share-button"></div>
+
+    </header>
+    <div class="container">
+        <div class="image-container">
+            <img src="https://webstockreview.net/images/buck-clipart-decal-11.png" alt="Darien Ford Avatar"/>
+        </div>
+        <h1>@DarienFord</h1>
+    </div>
+</body>
+</html>
